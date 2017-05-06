@@ -9,6 +9,6 @@ How build sbt plugin:<br/>
 addSbtPlugin("com.abtechsoft" % "sbt-plugin-practice" % "1.0")<br/>
 2- Enable sbt plugin<br/>
 enablePlugins(LocPlugin)
-3- Run sbt task
+3- Run sbt task<br/>
 sbt loc
 
